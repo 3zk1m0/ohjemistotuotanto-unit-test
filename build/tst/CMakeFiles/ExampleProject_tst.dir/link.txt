@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ExampleProject_tst.dir/Date-test.cpp.o CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.o CMakeFiles/ExampleProject_tst.dir/main.cpp.o  -o ExampleProject_tst ../src/libExampleProject_lib.a ../lib/libgtestd.a -lpthread 

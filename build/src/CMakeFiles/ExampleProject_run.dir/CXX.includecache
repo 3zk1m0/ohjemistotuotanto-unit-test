@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/src/Date.cpp
+iostream
+-
+Date.h
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/src/Date.h
+
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/src/Date.h
+
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/src/Formula.cpp
+Formula.h
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/src/Formula.h
+
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/src/Formula.h
+
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/src/main.cpp
+iostream
+-
+Formula.h
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/src/Formula.h
+Date.h
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/src/Date.h
+

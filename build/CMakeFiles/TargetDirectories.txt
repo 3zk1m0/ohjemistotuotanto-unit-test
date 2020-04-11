@@ -1,0 +1,13 @@
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/src/CMakeFiles/ExampleProject_run.dir
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/src/CMakeFiles/ExampleProject_lib.dir
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/tst/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/tst/CMakeFiles/ExampleProject_tst.dir
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/tst/CMakeFiles/edit_cache.dir
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/lib/googletest/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/lib/googletest/CMakeFiles/gtest.dir
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/lib/googletest/CMakeFiles/edit_cache.dir
+/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/lib/googletest/CMakeFiles/gtest_main.dir
