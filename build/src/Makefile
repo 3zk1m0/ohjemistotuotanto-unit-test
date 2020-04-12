@@ -170,36 +170,6 @@ Date.cpp.s:
 	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build && $(MAKE) -f src/CMakeFiles/ExampleProject_lib.dir/build.make src/CMakeFiles/ExampleProject_lib.dir/Date.cpp.s
 .PHONY : Date.cpp.s
 
-Formula.o: Formula.cpp.o
-
-.PHONY : Formula.o
-
-# target to build an object file
-Formula.cpp.o:
-	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build && $(MAKE) -f src/CMakeFiles/ExampleProject_run.dir/build.make src/CMakeFiles/ExampleProject_run.dir/Formula.cpp.o
-	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build && $(MAKE) -f src/CMakeFiles/ExampleProject_lib.dir/build.make src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.o
-.PHONY : Formula.cpp.o
-
-Formula.i: Formula.cpp.i
-
-.PHONY : Formula.i
-
-# target to preprocess a source file
-Formula.cpp.i:
-	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build && $(MAKE) -f src/CMakeFiles/ExampleProject_run.dir/build.make src/CMakeFiles/ExampleProject_run.dir/Formula.cpp.i
-	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build && $(MAKE) -f src/CMakeFiles/ExampleProject_lib.dir/build.make src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.i
-.PHONY : Formula.cpp.i
-
-Formula.s: Formula.cpp.s
-
-.PHONY : Formula.s
-
-# target to generate assembly for a file
-Formula.cpp.s:
-	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build && $(MAKE) -f src/CMakeFiles/ExampleProject_run.dir/build.make src/CMakeFiles/ExampleProject_run.dir/Formula.cpp.s
-	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build && $(MAKE) -f src/CMakeFiles/ExampleProject_lib.dir/build.make src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.s
-.PHONY : Formula.cpp.s
-
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -243,9 +213,6 @@ help:
 	@echo "... Date.o"
 	@echo "... Date.i"
 	@echo "... Date.s"
-	@echo "... Formula.o"
-	@echo "... Formula.i"
-	@echo "... Formula.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

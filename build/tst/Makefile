@@ -152,33 +152,6 @@ Date-test.cpp.s:
 	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build && $(MAKE) -f tst/CMakeFiles/ExampleProject_tst.dir/build.make tst/CMakeFiles/ExampleProject_tst.dir/Date-test.cpp.s
 .PHONY : Date-test.cpp.s
 
-Formula-test_copy.o: Formula-test_copy.cpp.o
-
-.PHONY : Formula-test_copy.o
-
-# target to build an object file
-Formula-test_copy.cpp.o:
-	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build && $(MAKE) -f tst/CMakeFiles/ExampleProject_tst.dir/build.make tst/CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.o
-.PHONY : Formula-test_copy.cpp.o
-
-Formula-test_copy.i: Formula-test_copy.cpp.i
-
-.PHONY : Formula-test_copy.i
-
-# target to preprocess a source file
-Formula-test_copy.cpp.i:
-	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build && $(MAKE) -f tst/CMakeFiles/ExampleProject_tst.dir/build.make tst/CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.i
-.PHONY : Formula-test_copy.cpp.i
-
-Formula-test_copy.s: Formula-test_copy.cpp.s
-
-.PHONY : Formula-test_copy.s
-
-# target to generate assembly for a file
-Formula-test_copy.cpp.s:
-	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build && $(MAKE) -f tst/CMakeFiles/ExampleProject_tst.dir/build.make tst/CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.s
-.PHONY : Formula-test_copy.cpp.s
-
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -218,9 +191,6 @@ help:
 	@echo "... Date-test.o"
 	@echo "... Date-test.i"
 	@echo "... Date-test.s"
-	@echo "... Formula-test_copy.o"
-	@echo "... Formula-test_copy.i"
-	@echo "... Formula-test_copy.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -4,10 +4,6 @@
 src/CMakeFiles/ExampleProject_run.dir/Date.cpp.o: ../src/Date.cpp
 src/CMakeFiles/ExampleProject_run.dir/Date.cpp.o: ../src/Date.h
 
-src/CMakeFiles/ExampleProject_run.dir/Formula.cpp.o: ../src/Formula.cpp
-src/CMakeFiles/ExampleProject_run.dir/Formula.cpp.o: ../src/Formula.h
-
 src/CMakeFiles/ExampleProject_run.dir/main.cpp.o: ../src/Date.h
-src/CMakeFiles/ExampleProject_run.dir/main.cpp.o: ../src/Formula.h
 src/CMakeFiles/ExampleProject_run.dir/main.cpp.o: ../src/main.cpp
 

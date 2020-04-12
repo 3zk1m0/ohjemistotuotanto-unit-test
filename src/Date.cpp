@@ -148,9 +148,10 @@ int Date::days_between(Date date)
     return diff;
 }
 
-int days_since_newyear()
+int Date::days_since_newyear()
 {
-    return 0;
+    Date d1{1,1,year};
+    return this->days_between(d1);
 }
 
 // Private function

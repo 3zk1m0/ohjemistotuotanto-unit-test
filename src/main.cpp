@@ -1,14 +1,7 @@
 #include <iostream>
-#include "Formula.h"
 #include "Date.h"
 
 using namespace std;
-
-/*int main() {
-    cout << "Bla: " << Formula::bla(2) << endl;
-    cout << "Bla: " << Formula::bla(3) << endl;
-    return 0;
-}*/
 
 
 int main()

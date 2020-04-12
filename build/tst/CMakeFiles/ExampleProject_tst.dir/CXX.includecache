@@ -318,19 +318,11 @@ acxx_demangle.h
 
 ../src/Date.h
 
-../src/Formula.h
-
 /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/tst/Date-test.cpp
 gtest/gtest.h
 /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/tst/gtest/gtest.h
 Date.h
 /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/tst/Date.h
-
-/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/tst/Formula-test copy.cpp
-gtest/gtest.h
-/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/tst/gtest/gtest.h
-Formula.h
-/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/tst/Formula.h
 
 /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/tst/main.cpp
 gtest/gtest.h

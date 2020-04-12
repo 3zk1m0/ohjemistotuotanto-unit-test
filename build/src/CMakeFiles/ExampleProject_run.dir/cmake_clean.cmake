@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ExampleProject_run.dir/Date.cpp.o"
-  "CMakeFiles/ExampleProject_run.dir/Formula.cpp.o"
   "CMakeFiles/ExampleProject_run.dir/main.cpp.o"
   "ExampleProject_run.pdb"
   "ExampleProject_run"

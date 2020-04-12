@@ -81,33 +81,9 @@ src/CMakeFiles/ExampleProject_lib.dir/Date.cpp.o.provides: src/CMakeFiles/Exampl
 src/CMakeFiles/ExampleProject_lib.dir/Date.cpp.o.provides.build: src/CMakeFiles/ExampleProject_lib.dir/Date.cpp.o
 
 
-src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.o: src/CMakeFiles/ExampleProject_lib.dir/flags.make
-src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.o: ../src/Formula.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.o"
-	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ExampleProject_lib.dir/Formula.cpp.o -c /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/src/Formula.cpp
-
-src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExampleProject_lib.dir/Formula.cpp.i"
-	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/src/Formula.cpp > CMakeFiles/ExampleProject_lib.dir/Formula.cpp.i
-
-src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExampleProject_lib.dir/Formula.cpp.s"
-	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/src/Formula.cpp -o CMakeFiles/ExampleProject_lib.dir/Formula.cpp.s
-
-src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.o.requires:
-
-.PHONY : src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.o.requires
-
-src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.o.provides: src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.o.requires
-	$(MAKE) -f src/CMakeFiles/ExampleProject_lib.dir/build.make src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.o.provides.build
-.PHONY : src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.o.provides
-
-src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.o.provides.build: src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.o
-
-
 src/CMakeFiles/ExampleProject_lib.dir/main.cpp.o: src/CMakeFiles/ExampleProject_lib.dir/flags.make
 src/CMakeFiles/ExampleProject_lib.dir/main.cpp.o: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/ExampleProject_lib.dir/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/ExampleProject_lib.dir/main.cpp.o"
 	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ExampleProject_lib.dir/main.cpp.o -c /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/src/main.cpp
 
 src/CMakeFiles/ExampleProject_lib.dir/main.cpp.i: cmake_force
@@ -132,18 +108,16 @@ src/CMakeFiles/ExampleProject_lib.dir/main.cpp.o.provides.build: src/CMakeFiles/
 # Object files for target ExampleProject_lib
 ExampleProject_lib_OBJECTS = \
 "CMakeFiles/ExampleProject_lib.dir/Date.cpp.o" \
-"CMakeFiles/ExampleProject_lib.dir/Formula.cpp.o" \
 "CMakeFiles/ExampleProject_lib.dir/main.cpp.o"
 
 # External object files for target ExampleProject_lib
 ExampleProject_lib_EXTERNAL_OBJECTS =
 
 src/libExampleProject_lib.a: src/CMakeFiles/ExampleProject_lib.dir/Date.cpp.o
-src/libExampleProject_lib.a: src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.o
 src/libExampleProject_lib.a: src/CMakeFiles/ExampleProject_lib.dir/main.cpp.o
 src/libExampleProject_lib.a: src/CMakeFiles/ExampleProject_lib.dir/build.make
 src/libExampleProject_lib.a: src/CMakeFiles/ExampleProject_lib.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX static library libExampleProject_lib.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library libExampleProject_lib.a"
 	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/src && $(CMAKE_COMMAND) -P CMakeFiles/ExampleProject_lib.dir/cmake_clean_target.cmake
 	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ExampleProject_lib.dir/link.txt --verbose=$(VERBOSE)
 
@@ -153,7 +127,6 @@ src/CMakeFiles/ExampleProject_lib.dir/build: src/libExampleProject_lib.a
 .PHONY : src/CMakeFiles/ExampleProject_lib.dir/build
 
 src/CMakeFiles/ExampleProject_lib.dir/requires: src/CMakeFiles/ExampleProject_lib.dir/Date.cpp.o.requires
-src/CMakeFiles/ExampleProject_lib.dir/requires: src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.o.requires
 src/CMakeFiles/ExampleProject_lib.dir/requires: src/CMakeFiles/ExampleProject_lib.dir/main.cpp.o.requires
 
 .PHONY : src/CMakeFiles/ExampleProject_lib.dir/requires

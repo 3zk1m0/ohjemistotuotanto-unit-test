@@ -5,7 +5,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/tst/Date-test.cpp" "/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/tst/CMakeFiles/ExampleProject_tst.dir/Date-test.cpp.o"
-  "/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/tst/Formula-test copy.cpp" "/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/tst/CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.o"
   "/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/tst/main.cpp" "/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/tst/CMakeFiles/ExampleProject_tst.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

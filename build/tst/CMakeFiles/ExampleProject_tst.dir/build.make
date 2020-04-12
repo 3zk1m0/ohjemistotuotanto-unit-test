@@ -81,33 +81,9 @@ tst/CMakeFiles/ExampleProject_tst.dir/Date-test.cpp.o.provides: tst/CMakeFiles/E
 tst/CMakeFiles/ExampleProject_tst.dir/Date-test.cpp.o.provides.build: tst/CMakeFiles/ExampleProject_tst.dir/Date-test.cpp.o
 
 
-tst/CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.o: tst/CMakeFiles/ExampleProject_tst.dir/flags.make
-tst/CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.o: ../tst/Formula-test\ copy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object tst/CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.o"
-	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/tst && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.o -c "/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/tst/Formula-test copy.cpp"
-
-tst/CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.i"
-	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/tst && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/tst/Formula-test copy.cpp" > CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.i
-
-tst/CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.s"
-	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/tst && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/tst/Formula-test copy.cpp" -o CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.s
-
-tst/CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.o.requires:
-
-.PHONY : tst/CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.o.requires
-
-tst/CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.o.provides: tst/CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.o.requires
-	$(MAKE) -f tst/CMakeFiles/ExampleProject_tst.dir/build.make tst/CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.o.provides.build
-.PHONY : tst/CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.o.provides
-
-tst/CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.o.provides.build: tst/CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.o
-
-
 tst/CMakeFiles/ExampleProject_tst.dir/main.cpp.o: tst/CMakeFiles/ExampleProject_tst.dir/flags.make
 tst/CMakeFiles/ExampleProject_tst.dir/main.cpp.o: ../tst/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object tst/CMakeFiles/ExampleProject_tst.dir/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object tst/CMakeFiles/ExampleProject_tst.dir/main.cpp.o"
 	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/tst && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ExampleProject_tst.dir/main.cpp.o -c /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/tst/main.cpp
 
 tst/CMakeFiles/ExampleProject_tst.dir/main.cpp.i: cmake_force
@@ -132,20 +108,18 @@ tst/CMakeFiles/ExampleProject_tst.dir/main.cpp.o.provides.build: tst/CMakeFiles/
 # Object files for target ExampleProject_tst
 ExampleProject_tst_OBJECTS = \
 "CMakeFiles/ExampleProject_tst.dir/Date-test.cpp.o" \
-"CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.o" \
 "CMakeFiles/ExampleProject_tst.dir/main.cpp.o"
 
 # External object files for target ExampleProject_tst
 ExampleProject_tst_EXTERNAL_OBJECTS =
 
 tst/ExampleProject_tst: tst/CMakeFiles/ExampleProject_tst.dir/Date-test.cpp.o
-tst/ExampleProject_tst: tst/CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.o
 tst/ExampleProject_tst: tst/CMakeFiles/ExampleProject_tst.dir/main.cpp.o
 tst/ExampleProject_tst: tst/CMakeFiles/ExampleProject_tst.dir/build.make
 tst/ExampleProject_tst: src/libExampleProject_lib.a
 tst/ExampleProject_tst: lib/libgtestd.a
 tst/ExampleProject_tst: tst/CMakeFiles/ExampleProject_tst.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable ExampleProject_tst"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable ExampleProject_tst"
 	cd /mnt/c/Users/sande/Desktop/GIT/Ohjelmistotuotanto-unit-test/build/tst && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ExampleProject_tst.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -154,7 +128,6 @@ tst/CMakeFiles/ExampleProject_tst.dir/build: tst/ExampleProject_tst
 .PHONY : tst/CMakeFiles/ExampleProject_tst.dir/build
 
 tst/CMakeFiles/ExampleProject_tst.dir/requires: tst/CMakeFiles/ExampleProject_tst.dir/Date-test.cpp.o.requires
-tst/CMakeFiles/ExampleProject_tst.dir/requires: tst/CMakeFiles/ExampleProject_tst.dir/Formula-test_copy.cpp.o.requires
 tst/CMakeFiles/ExampleProject_tst.dir/requires: tst/CMakeFiles/ExampleProject_tst.dir/main.cpp.o.requires
 
 .PHONY : tst/CMakeFiles/ExampleProject_tst.dir/requires
